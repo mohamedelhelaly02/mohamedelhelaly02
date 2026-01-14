@@ -9,16 +9,7 @@
 
 ## 👨‍💻 Summary
 
-a **Backend-Focused Full-Stack Engineer** from Egypt 🇪🇬.
-
-My **primary backend stack is ASP.NET Core**, where I build scalable, secure, and maintainable backend systems.  
-In addition, I have solid hands-on experience with **Node.js and NestJS**, allowing me to work across multiple backend ecosystems.
-
-I focus on:
-- Clean Architecture & SOLID principles
-- High-performance RESTful APIs
-- Database design & optimization
-- Writing clean, testable, and maintainable code
+Results-driven Backend Engineer specializing in .NET technologies. Expert at architecting scalable backends and high-availability APIs. I bridge the gap between complex business requirements and high-quality technical solutions using ASP.NET Core, Clean Architecture, and modern database optimization techniques. Always committed to writing clean, maintainable, and high-performance code
 
 ---
 
