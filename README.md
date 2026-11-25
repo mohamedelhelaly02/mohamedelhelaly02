@@ -24,8 +24,5 @@ Open to junior .NET roles (remote, or hybrid in Cairo).
 
 **Main:** C#, ASP.NET Core (Web API), Entity Framework Core, Dapper, JWT, SignalR, Redis, SQL Server, PostgreSQL
 
-**Also:** Node.js / NestJS, Angular, TypeScript, Docker, Git
+**Also:** Angular, TypeScript, JavaScript, Docker, Git
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,redis,docker,git,github,postman,angular,ts,nodejs,nestjs" />
-</p>
